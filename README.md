@@ -1,5 +1,5 @@
 # SNS가 정신건강에 미치는 영향
-SSU Python Programming Final Project
+SSU Python Programming Final Project.
 20241692 이서진, 20243067 이수민
 
 # Libraries
