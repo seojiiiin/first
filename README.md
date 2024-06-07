@@ -1,16 +1,17 @@
 # SNS가 정신건강에 미치는 영향
 SSU Python Programming Final Project
+20241692 이서진, 20243067 이수민
 
 # Libraries
--pandas
--numpy
--matplotlib.pyplot
--seaborn
--Counter in collections
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- Counter in collections
     
 # Datasets
--data1과 data2 : [SMA22](https://www.kaggle.com/datasets/zaranaramani/analysis-and-reducing-social-media-addiction)의 collected_dataset
--data3 : [SG](https://www.kaggle.com/datasets/globalmediadata/social-media-data-sg-1)의 Social_Media_Data_SG_2
+- data1과 data2 : [SMA22](https://www.kaggle.com/datasets/zaranaramani/analysis-and-reducing-social-media-addiction)의 collected_dataset
+- data3 : [SG](https://www.kaggle.com/datasets/globalmediadata/social-media-data-sg-1)의 Social_Media_Data_SG_2
 
 # sourcecode.py : 데이터 처리 파일
 
